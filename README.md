@@ -8,10 +8,15 @@
 
 - Languages: Python, HTML, CSS, JS
 
-- Likes: Minecraft, Old Software, Air
+- Likes: Minecraft, Old Software, Air, Programming Stuff
 
 - Discord: Rick Astley#8553
 
 - Extra: Why do people think Windows 11 is good? 
 
 - Extra (Cont'd): **Don't specify a deadline if you want good results!!!**
+
+
+
+
+# Enjoy your day!
