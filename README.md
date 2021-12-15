@@ -1,4 +1,5 @@
-##Hello there
+# Hello there
+
 I am a freelance python developer, who also is learning web development, to make electron.js and python colabs.
 FUN FACT(S)! If you want to reach me, do it by discord, and if you want something done, I also got other stuff, so don't expect it done fast. 
 PRONOUNS: They/Them
