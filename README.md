@@ -16,9 +16,7 @@
 
 - Extra: Why do people think Windows 11 is good? 
 
-- Extra (Cont'd): **Don't specify a deadline if you want good results!!!**
 
-
-
+The best way to get the most out of a developer or an engineer is to give them the time they need to make their best
 
 # Enjoy your day!
