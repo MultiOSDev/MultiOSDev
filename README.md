@@ -12,9 +12,9 @@
 
 - Likes: Minecraft, Old Software, Air, Programming Stuff
 
-- Discord: Rick Astley#8553
+- Discord: CursedMC#4654
 
-- Extra: Why do people think Windows 11 is good? 
+- IM HIRING, CONTACT ME FOR INFO
 
 
 The best way to get the most out of a developer or an engineer is to give them the time they need to make their best
