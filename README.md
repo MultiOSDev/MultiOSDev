@@ -10,7 +10,7 @@
 
 - Languages: Python, HTML, CSS, JS
 
-- Likes: Minecraft, Old Software, Air, Programming Stuff
+- Likes: Minecraft, Old Software, Air, Programming Stuff, Running doom in weird places
 
 - Discord: CursedMC#4654
 
