@@ -14,8 +14,7 @@
 
 - Discord: CursedMC#4654
 
-- IM HIRING, CONTACT ME FOR INFO
-
+- https://github.com/EverestWorks/
 
 The best way to get the most out of a developer or an engineer is to give them the time they need to make their best
 
