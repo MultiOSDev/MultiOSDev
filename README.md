@@ -16,6 +16,8 @@
 
 - https://github.com/EverestWorks/
 
+- Working on EverTerm, ideas and help is very much appreciated
+
 The best way to get the most out of a developer or an engineer is to give them the time they need to make their best
 
 # Enjoy your day!
