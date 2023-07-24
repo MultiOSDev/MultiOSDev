@@ -8,7 +8,7 @@
 
 - Languages: Python, HTML, CSS, JS
 
-- Likes: Minecraft, Old Software, Air, Programming Stuff, Running doom in weird places, STAR WARS!!!!!
+- Likes: Minecraft, Old Software, Air, Programming Stuff
 
 - Discord: crabtech
 
