@@ -6,13 +6,11 @@
 
 - FUN FACT(S)! If you want to reach me, do it by discord, and if you want something done, I also got other stuff, so don't expect it done fast. 
 
-- PRONOUNS: They/Them
-
 - Languages: Python, HTML, CSS, JS
 
 - Likes: Minecraft, Old Software, Air, Programming Stuff, Running doom in weird places, STAR WARS!!!!!
 
-- Discord: Tech Support Guy#9659
+- Discord: crabtech
 
 - https://github.com/EverestWorks/
 
