@@ -2,7 +2,7 @@
 
 # Hello there
 
-- I am a freelance python developer, who also honing their 3D animation skills, and uploads to youtube
+- I am the CEO of EverestWorks
 
 - FUN FACT(S)! If you want to reach me, do it by discord, and if you want something done, I also got other stuff, so don't expect it done fast. 
 
