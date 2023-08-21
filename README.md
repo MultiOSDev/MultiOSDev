@@ -1,7 +1,7 @@
 
 
 # Hello there
-[![MultiOSDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiosdev)](https://github.com/anuraghazra/github-readme-stats)
+![MultiOSDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiosdev&show_icons=true&theme=dark)
 - I am the CEO of EverestWorks
 
 - FUN FACT(S)! If you want to reach me, do it by discord, and if you want something done, I also got other stuff, so don't expect it done fast. 
