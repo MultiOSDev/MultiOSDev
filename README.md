@@ -4,9 +4,9 @@
 ![MultiOSDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiosdev&show_icons=true&theme=dark)
 - I am the CEO of EverestWorks
 
-- FUN FACT(S)! If you want to reach me, do it by discord, and if you want something done, I also got other stuff, so don't expect it done fast. 
+- FUN FACT(S)! If you want to reach me, do it by discord(icecream.man.)
 
-- Languages: Python, HTML, CSS, JS
+- Languages: Python, Web stuff (HTML, CSS, you know), Java, (learning) C++
 
 - Likes: Minecraft, Old Software, Air, Programming Stuff
 
@@ -14,7 +14,7 @@
 
 - https://github.com/EverestWorks/
 
-- Working on EverTerm, ideas and help is very much appreciated
+- Working on vTerm, developers are very much appreciated
 
 The best way to get the most out of a developer or an engineer is to give them the time they need to make their best
 
