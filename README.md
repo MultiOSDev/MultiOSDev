@@ -10,7 +10,7 @@
 
 - Likes: Minecraft, Old Software, Air, Programming Stuff
 
-- Discord: crab.tech
+- Discord: icecream.man.
 
 - https://github.com/EverestWorks/
 
