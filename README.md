@@ -1,7 +1,6 @@
 
 
 # Hello there
-![MultiOSDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiosdev&show_icons=true&theme=dark)
 - CEO of EverestWorks
 
 - Languages: Python, Web stuff (HTML, CSS, you know), Java, (learning) C++, 
@@ -19,5 +18,8 @@
 
 - Studying for CompTIA A+ certification
 
+![MultiOSDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiosdev&show_icons=true&theme=dark)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
 **I wish your day to continue greatly**
