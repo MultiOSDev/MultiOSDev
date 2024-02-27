@@ -2,9 +2,9 @@
 
 # Hello there
 ![MultiOSDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=multiosdev&show_icons=true&theme=dark)
-- I am the CEO of EverestWorks
+- CEO of EverestWorks
 
-- Languages: Python, Web stuff (HTML, CSS, you know), Java, (learning) C++
+- Languages: Python, Web stuff (HTML, CSS, you know), Java, (learning) C++, 
 
 - Likes: Pentesting, Developing, Gaming, Breaking Software
 
@@ -12,5 +12,12 @@
 
 - Working on vTerm, developers are very much appreciated
 
+- Experience in competitions such as Cyberpatriot and NCL Cyberskyline. Also have many years of experience in Linux systems
+- Also have experience using Blender
 
-## I wish your day to continue greatly
+- Currently taking Google's course on Cybersecurity
+
+- Studying for CompTIA A+ certification
+
+
+**I wish your day to continue greatly**
