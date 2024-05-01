@@ -12,7 +12,7 @@
 - Working on vTerm, developers are very much appreciated
 
 - Experience in competitions such as Cyberpatriot and NCL Cyberskyline. Also have many years of experience in Linux systems
-- Also have experience using Blender
+- Also have experience using Blender (as seen on my youtube channel)
 
 - Currently taking Google's course on Cybersecurity
 
