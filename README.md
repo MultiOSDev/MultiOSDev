@@ -24,4 +24,4 @@ I am also on:
 
 
 
-**I wish your day to continue greatly**
+**Ich wünsche dir, dass dein Tag weiterhin großartig verläuft**
