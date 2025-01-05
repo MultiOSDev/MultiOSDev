@@ -1,7 +1,7 @@
 
 
 # Hello there
-- CEO of [Everestworks](https://github.com/EverestWorks/)
+- CEO of [Everestworks](https://everestworks.us)
 
 - Languages: Python, Web stuff (HTML, CSS, you know), Java, (learning) C++, 
 
