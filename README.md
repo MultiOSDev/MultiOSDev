@@ -3,7 +3,7 @@
 # Hello there
 - CEO of [Everestworks](https://everestworks.us)
 
-- Languages: Python, Web stuff (HTML, CSS, you know), Java, (learning) C++, 
+- Languages: Python, Web stuff (HTML, CSS, you know), Java, C#
 
 - Likes: Pentesting, Developing, Gaming, Breaking Software
 
